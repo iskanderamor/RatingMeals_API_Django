@@ -1,0 +1,1 @@
+web: gunicorn ratingmeal.wsgi --log-file -
