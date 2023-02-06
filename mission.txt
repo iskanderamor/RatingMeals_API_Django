@@ -10,3 +10,14 @@
 2- Meal list API to show the average rating and number of ratings 
     models > add custom function\method in the model to calculate the avg and sum 
     serializers > add the avg and sum to the fields 
+
+3- URL to request token of specific user 
+    Token 
+
+4- Only authenticated users can create\update meal rate
+
+5- Register users
+    URL > ViewSet > Serializer > ser model = User default django 
+    URL > ViewSet > Serializer > ser model = User custom abstract
+
+6- general security check
